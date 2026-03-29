@@ -2,5 +2,5 @@ folder: problem
 samples:
     - cases: '[1..4]'
 title:
-    en: Max Subarray Sum 56f64c
+    en: Max Subarray Sum v2 df55
 version: 2
